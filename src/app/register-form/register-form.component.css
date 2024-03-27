@@ -1,0 +1,14 @@
+.center{
+    margin: 50px;
+    
+}
+
+.small-elt{
+    color: red;
+    font-size: 12px;
+}
+h1{
+    color: rgb(0, 149, 194);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
